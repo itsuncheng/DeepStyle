@@ -1,6 +1,6 @@
 # DeepStyle: Using State-of-the-Art Deep Learning to Generate Realistic High Fashion Clothing and Styles
 
-This is the official repository for the Medium Article that contains all the relevant source code, jupyter notebooks, and configuration files for the paper. The paper is also included in the repository and can be found [here](https://github.com/itsuncheng/DeepStyle/blob/master/full_paper.pdf).
+This is the official repository for the Medium Article [Part 1](https://towardsdatascience.com/deepstyle-f8557ab9e7b?source=friends_link&sk=165ce861dbcb0b5710151e4e10b9a4df) and [Part 2](https://towardsdatascience.com/deepstyle-part-2-4ca2ae822ba0?source=friends_link&sk=0af260bec9e2d46b4a062d73c7157c6a) that contains all the relevant source code, jupyter notebooks, and configuration files for the paper. The paper is also included in the repository and can be found [here](https://github.com/itsuncheng/DeepStyle/blob/master/full_paper.pdf).
 
 ## Brief Description of the Files
 
